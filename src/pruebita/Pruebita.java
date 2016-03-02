@@ -7,7 +7,7 @@ package pruebita;
 
 /**
  *
- * @author NV55C
+ * @author Joel
  */
 public class Pruebita {
 
